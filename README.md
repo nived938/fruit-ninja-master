@@ -4,7 +4,7 @@ A fruit slicing game using computer vision, inspired by Fruit Ninja.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12x
 - A webcam
 
 ## How to Use
